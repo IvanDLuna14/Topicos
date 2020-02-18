@@ -1,0 +1,12 @@
+.root{
+   -fx-background-image: url("https://warp.la/wp-content/uploads/2017/11/lord-of-the-rings-wallpaper-1.jpg");
+   -fx-background-size: cover, auto;
+
+
+}
+
+.menu-bar{
+-fx-background-color: #90a4ae;
+    -fx-border-color: #455a64;
+    -fx-border-width: 4;
+}
